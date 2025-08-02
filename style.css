@@ -290,7 +290,7 @@ button {
   font-weight: 600;
   text-decoration: none;
   color: #ffffff;
-  background-color: #ff9900;
+  background-color: #91fa35;
   border-radius: 8px;
   transition: all 0.3s ease;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
@@ -300,19 +300,19 @@ button {
 }
 
 .whitepaper-btn:hover {
-  background-color: #ffb84d;
+  background-color: #fc3232;
   color: #000000;
   transform: scale(1.05);
 }
 
 .whitepaper-btn:active {
-  background-color: #cc7a00;
+  background-color: #86f64e;
   transform: scale(0.98);
   animation: bounce 0.4s ease;
 }
 
 .whitepaper-btn:visited {
-  background-color: #996600;
+  background-color: rgb(67, 67, 241);
   color: #ffffff;
 }
 
