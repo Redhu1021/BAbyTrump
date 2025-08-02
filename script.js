@@ -68,3 +68,16 @@ function toggleContact() {
   const panel = document.getElementById("contact-info");
   panel.classList.toggle("show");
 }
+
+
+// whitepaper ki js 
+
+
+  function playTrumpVoice() {
+   const  audio = document.getElementById("trumpVoice");
+    if (audio) {
+      audio.currentTime = 0;
+      audio.play();
+    }
+  }
+
